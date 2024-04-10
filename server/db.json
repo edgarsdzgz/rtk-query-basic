@@ -1,19 +1,39 @@
 {
   "contacts": [
     {
-      "id":"1",
-      "name":"Link Hyrule",
-      "email":"link@hyrule.com"
+      "name": "Diety Link Hyrule",
+      "email": "dietylink@hyrule.com",
+      "id": "1"
     },
     {
-      "id":"2",
-      "name":"Zelda Hyrule",
-      "email":"zelda@hyrule.com"
+      "id": "2",
+      "name": "Zelda Hyrule",
+      "email": "zelda@hyrule.com"
     },
     {
-      "id":"3",
-      "name":"Ganon Gerudo",
-      "email":"ganon@gerudo.com"
+      "id": "5",
+      "name": "Midna Twilight",
+      "email": "midna@twilight.com"
+    },
+    {
+      "id": "6",
+      "name": "Navi Fairy",
+      "email": "navi@fairy.com"
+    },
+    {
+      "id": "7",
+      "name": "Great Fairy",
+      "email": "great@fairy.com"
+    },
+    {
+      "id": "8",
+      "name": "Horse God",
+      "email": "horse@god.com"
+    },
+    {
+      "id": "9",
+      "name": "White Dragon",
+      "email": "white@dragon.com"
     }
   ]
 }
