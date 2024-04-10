@@ -1,4 +1,4 @@
-# Welcome to typeorm-backend-basic
+# Welcome to rtk-query-basic
 
 This is a basic banking web application that integrates: 
 - React
