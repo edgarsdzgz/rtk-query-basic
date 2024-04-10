@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id":"1",
+      "name":"Link Hyrule",
+      "email":"link@hyrule.com"
+    },
+    {
+      "id":"2",
+      "name":"Zelda Hyrule",
+      "email":"zelda@hyrule.com"
+    },
+    {
+      "id":"3",
+      "name":"Ganon Gerudo",
+      "email":"ganon@gerudo.com"
+    }
+  ]
+}
