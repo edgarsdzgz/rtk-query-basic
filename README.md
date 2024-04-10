@@ -1,9 +1,9 @@
 # Welcome to typeorm-backend-basic
 
 This is a basic banking web application that integrates: 
-- Typescript
 - React
 - React-native
+- Typescript
 - RTK Query
 - JSON Server
 
